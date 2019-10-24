@@ -15,7 +15,7 @@ public class GwtTestSample
 
    public void testSomething()
    {
-      // Not much to actually test in this sample app
+      // Not much to actually test in this sample apps
       // Ideally you would test your Controller here (NOT YOUR UI)
       // (Make calls to RPC services, test client side model objects, test client side logic, etc)
       Assert.assertTrue( true );
