@@ -2,7 +2,7 @@
 <module>
 
       <!-- Inherit the core Web Toolkit stuff.                        -->
-      <inherits name='com.google.gwt.user.User creation'/>
+      <inherits name='com.google.gwt.user.User'/>
 
       <!--  inherit css based theme -->
       <inherits name='com.google.gwt.user.theme.standard.Standard'/>
